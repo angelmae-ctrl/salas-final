@@ -52,7 +52,7 @@ with st.expander("ALL ABOUT MACHINE LEARNING:"""):
 ### 🔎 Overview""", unsafe_allow_html=True)
 
 
-st.image("pictures\ml.jpg")
+st.image("pictures/ml.jpg")
 
 
 st.markdown("""
