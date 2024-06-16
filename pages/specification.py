@@ -36,7 +36,7 @@ st.header('📚👩‍💼 PREDICTOR 📚👩‍💼')
 st.image("pictures/predict.1.png")
 st.image("pictures/predict.2.png")
 st.image("pictures/predict.png")
-st.image("pictures/predict1.pngg")
+st.image("pictures/predict1.png")
 
 with st.expander("🔍Prediction"):
     st.markdown("""
