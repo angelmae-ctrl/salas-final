@@ -62,7 +62,7 @@ import streamlit as st
 
 
 images = [
-    {"path": "pictures/friend3.jpg", "caption": "Academic years are often described as some of the most formative and challenging times in a person's life. The journey through education is filled with hurdles, demanding tasks, and moments of self-doubt. However, amidst the pressures of exams, projects, and deadlines, the presence of supportive friends and classmates plays an important role in not only making the experience bearable but also enriching and enjoyable.From the very first day of school, friendships begin to form. These bonds, initially built on shared classes and common interests, soon evolve into deeper relationships that provide a reliable support system. Friends and classmates become a source of encouragement, helping each other navigate through the hardship of academic life. Whether it's offering a listening ear after a tough day, sharing notes for a missed lecture, or providing motivation before a big exam, their presence is invaluable."},
+
     {"path": "pictures/fr2.JPG", "caption": "We didn't realize we were making memories; we just knew we were having fun."},
     {"path": "pictures/fr1.jpg", "caption": "A friend is one that knows you as you are, understands where you have been, accepts what you have become, and still, gently allows you to grow."},
     {"path": "pictures/bff.png", "caption": "Best friends are the people who make your problems their problems, just so you don't have to go through them alone."},
